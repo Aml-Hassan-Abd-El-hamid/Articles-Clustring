@@ -1,4 +1,4 @@
-# Articles Clustring<br>
+# Articles Clustering<br>
 
 Problem Definition :<br>
 The problem that is being addressed here is how to group similar articles
